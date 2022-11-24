@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ultimathei/HomeUpgraders_frontend.git
