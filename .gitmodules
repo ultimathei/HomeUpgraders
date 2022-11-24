@@ -2,3 +2,7 @@
 	path = frontend
 	url = https://github.com/ultimathei/HomeUpgraders_frontend.git
   branch = main
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ultimathei/HomeUpgraders_backend.git
+  branch = main
